@@ -33,7 +33,7 @@ plt.show()
 
 #Exercice 2
 #Authors : Clémence ZEITOUN 
-#Statut : ongoing
+#Statut : Finished
 
 !pip install pillow
 import numpy as np 
@@ -63,10 +63,11 @@ plt.axis("off")
 plt.tight_layout(pad = 0)
 plt.show() 
 
-#Exercise 2----------------------------------------------------------------
-#Authors : Steven Peres
-#Statut :ongoing
 #Exercise 3----------------------------------------------------------------
 #Authors : Steven Peres
-#Statut : ongoing
+#Statut :ongoing
+
 #Exercise 4----------------------------------------------------------------
+#Authors : Steven Peres
+#Statut : ongoing
+
